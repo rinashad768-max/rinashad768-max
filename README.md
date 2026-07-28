@@ -28,7 +28,7 @@ I'm a **Senior Dynamics 365 & Power Platform Engineer** with **8+ years** design
 - 🔐 Building for **regulated environments** — SOX, GDPR, and HIPAA compliance baked into every release
 - ⚙️ Owning **ALM & CI/CD** end-to-end with **Azure DevOps** across DEV → TEST → UAT → PROD
 - 🎯 Partnering with Product & Design to simplify workflows — lifted user adoption **35%** on a recent redesign
-- 🌎 Based in **Newark, NJ**, collaborating across **Eastern time zone ** teams
+- 🌎 Based in **Newark, NJ**, collaborating across **Eastern time zone** teams
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,35:6A00FF,70:B026FF,100:FF2079&height=3&width=100%"/>
 
