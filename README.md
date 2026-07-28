@@ -1,123 +1,140 @@
-<div align="center">
-# Rina Shad
+# 💻 Rina Shad - GitHub Profile README Template
 
-<!-- Animated typing text -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=00F5FF&background=0D0221&center=true&vCenter=true&multiline=true&width=780&height=100&lines=8%2B+Years+Building+Enterprise+CRM+%26+Automation;Dynamics+365+CE+%7C+Dataverse+%7C+Power+Platform+%7C+Azure+DevOps;Secure%2C+Scalable+Solutions+for+Regulated+Industries;C%23+%2F+.NET+%7C+React+%2F+TypeScript+%7C+PCF+Controls" alt="Typing SVG" />
-</a>
+This repository contains the Markdown code for your GitHub Profile README. To set this up on your GitHub account, follow the instructions below.
 
-<br/>
+## 🚀 Setup Instructions
+1. Go to your GitHub account and create a **new repository**.
+2. Name the repository **exactly the same as your GitHub username** (e.g., if your username is `rinashad`, the repository name must be `rinashad`).
+3. Make sure the repository is **Public** and check the box to **"Add a README file"**.
+4. Open the `README.md` file in that repository, click the edit icon (pencil), and paste the code below.
+5. **IMPORTANT:** Replace `YOUR_GITHUB_USERNAME` in all the URLs below with your actual GitHub username (case-sensitive) to load your real-time statistics.
+6. Replace `YOUR_LINKEDIN_USERNAME` with your actual LinkedIn handle.
 
-<img src="https://img.shields.io/badge/PL--400-Power%20Platform%20Developer%20Associate-B026FF?style=for-the-badge&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/Dynamics%20365-CRM%20Functional%20Consultant-FF2079?style=for-the-badge&labelColor=0D0221"/>
+---
 
-<img src="https://img.shields.io/badge/LOCATION-Newark%2C%20NJ-6A00FF?style=for-the-badge&labelColor=0D0221"/>
+```markdown
+<!-- Header section with centered greeting -->
+<p align="center">
+  <samp>
+    <h2>👋 Hey Everyone, I'm Rina Shad!</h2>
+    <h3>🚀 Senior Dynamics 365 CRM & Power Platform Architect</h3>
+  </samp>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rina.shad768@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,35:6A00FF,70:B026FF,100:FF2079&height=3&width=100%"/>
+---
 
-## ⚡ About Me
+<!-- Introduction two-column layout -->
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h3>🪐 Welcome to My GitHub Universe!</h3>
+      <ul>
+        <li>🧑‍💻 <b>Senior Dynamics 365 CRM & Power Platform Architect</b> with 8+ years of experience designing and delivering enterprise-scale business solutions.</li>
+        <li>🚀 Specialized in full lifecycle implementations across healthcare, fintech, eCommerce, government, and professional services.</li>
+        <li>🛠️ Expert in <b>Dynamics 365 CRM</b> (Sales, Service, Marketing, Field Service) and <b>Microsoft Power Platform</b> (Canvas/Model-Driven Apps, Power Automate, Power Pages, Dataverse, Power BI).</li>
+        <li>🔒 Proficient in establishing governance standards (<b>Power Platform CoE</b>), environment strategies, ALM/CI-CD pipelines, and security compliance (HIPAA, PCI-DSS, GDPR).</li>
+        <li>⚙️ Strong integration expertise using <b>Azure Functions</b>, <b>Logic Apps</b>, <b>Service Bus</b>, <b>API Management</b>, and <b>Microsoft Graph API</b>.</li>
+        <li>🤝 Open to collaboration on CRM architecture, enterprise integrations, and mentoring dev teams.</li>
+      </ul>
+      <br/>
+      <!-- Visitor counter badge -->
+      <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Rina's Profile Views" />
+    </td>
+    <td valign="top" width="45%">
+      <!-- Animation matching the reference layout -->
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/developer.gif" alt="Developer Coding GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 
-I'm a **Senior Dynamics 365 & Power Platform Engineer** with **8+ years** designing, developing, and modernizing enterprise CRM applications across **healthcare, government, financial services, and commercial** sectors.
+---
 
-- 🏗️ Architecting secure, scalable solutions on **Dynamics 365 CE, Dataverse, Power Apps, Power Automate & Power Pages**
-- 🔌 Extending platform capabilities with **custom plugins, custom APIs, and PCF controls** in **C#, React & TypeScript**
-- 🔐 Building for **regulated environments** — SOX, GDPR, and HIPAA compliance baked into every release
-- ⚙️ Owning **ALM & CI/CD** end-to-end with **Azure DevOps** across DEV → TEST → UAT → PROD
-- 🎯 Partnering with Product & Design to simplify workflows — lifted user adoption **35%** on a recent redesign
-- 🌎 Based in **Newark, NJ**, collaborating across **Eastren Time Zone** teams
+### 🛠️ Core Technical Skills
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,35:6A00FF,70:B026FF,100:FF2079&height=3&width=100%"/>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>💼 Dynamics 365 & Power Platform</h4>
+      <img src="https://img.shields.io/badge/Dynamics_365_CRM-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Dynamics 365" />
+      <img src="https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white" alt="Power Apps" />
+      <img src="https://img.shields.io/badge/Power_Automate-0066B3?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate" />
+      <img src="https://img.shields.io/badge/Power_Pages-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Power Pages" />
+      <img src="https://img.shields.io/badge/Dataverse-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Dataverse" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🔗 Integration & Development</h4>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=api&logoColor=white" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>📐 Architecture & Governance</h4>
+      <ul>
+        <li>Solution Architecture & design</li>
+        <li>Power Platform CoE Toolkit</li>
+        <li>ALM, CI/CD, Environment Strategy</li>
+        <li>DLP Policies & Release Management</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>🛡️ Security & Compliance</h4>
+      <ul>
+        <li>HIPAA, PCI-DSS, GDPR compliance</li>
+        <li>Role-Based & Field-Level Security</li>
+        <li>Audit Logging & Data Governance</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## 🧬 Tech Stack
+---
 
-<div align="center">
+### 🏅 Certifications
+- 📜 **Microsoft Certified: Dynamics 365 CRM Functional Consultant Associate**
+- 📜 **Microsoft Certified: Power Platform Developer Associate**
 
-**Dynamics 365 & Power Platform**
+---
 
-<img src="https://img.shields.io/badge/Dynamics%20365%20CE-0D0221?style=for-the-badge&labelColor=00F5FF&color=0D0221"/>
-<img src="https://img.shields.io/badge/Dataverse-0D0221?style=for-the-badge&labelColor=B026FF&color=0D0221"/>
-<img src="https://img.shields.io/badge/Power%20Apps-0D0221?style=for-the-badge&labelColor=FF2079&color=0D0221"/>
-<img src="https://img.shields.io/badge/Power%20Automate-0D0221?style=for-the-badge&labelColor=6A00FF&color=0D0221"/>
-<img src="https://img.shields.io/badge/Power%20Pages-0D0221?style=for-the-badge&labelColor=00F5FF&color=0D0221"/>
-<img src="https://img.shields.io/badge/PCF%20Controls-0D0221?style=for-the-badge&labelColor=B026FF&color=0D0221"/>
-<img src="https://img.shields.io/badge/AI%20Builder-0D0221?style=for-the-badge&labelColor=FF2079&color=0D0221"/>
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&column=6" alt="Rina's Github Trophies" />
+</p>
 
-**Development & Languages**
+---
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-0D0221?style=for-the-badge&logo=react&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20FX-0D0221?style=for-the-badge&labelColor=6A00FF&color=0D0221"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-0D0221?style=for-the-badge&labelColor=FF2079&color=0D0221"/>
+### 📊 GitHub Statistics & Streak
 
-**ALM, DevOps & Cloud**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&locale=en" alt="Rina's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Rina's Streak Stats" width="48%" />
+</p>
 
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=tokyonight" alt="Rina's Top Languages" width="450" />
+</p>
 
-**Compliance & Security**
+---
 
-<img src="https://img.shields.io/badge/SOX-0D0221?style=for-the-badge&labelColor=00F5FF&color=0D0221"/>
-<img src="https://img.shields.io/badge/GDPR-0D0221?style=for-the-badge&labelColor=B026FF&color=0D0221"/>
-<img src="https://img.shields.io/badge/HIPAA-0D0221?style=for-the-badge&labelColor=FF2079&color=0D0221"/>
-<img src="https://img.shields.io/badge/Role--Based%20Security-0D0221?style=for-the-badge&labelColor=6A00FF&color=0D0221"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,35:6A00FF,70:B026FF,100:FF2079&height=3&width=100%"/>
-
-## 💼 Experience Timeline
-
-```text
-2023 — Present   Senior Dynamics 365 & Power Platform Engineer @ HyerTek
-2021 — 2023      Dynamics 365 & Power Platform Developer      @ Virtuworks
-2018 — 2021      Dynamics CRM Developer                       @ PingWind
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Rina's Contribution Graph" width="100%" />
+</p>
 ```
-
-<details>
-<summary><b>🏗️ Enterprise CRM Modernization — Model-Driven Apps & PCF Controls</b></summary>
-<br/>
-
-- Architected model-driven apps on Dataverse with custom forms, views, business rules & business process flows
-- Built custom C# plugins and React/TypeScript PCF controls to extend Dynamics functionality
-- Delivered Power Automate cloud flows with robust error handling and retry patterns
-- Managed full ALM lifecycle via Azure DevOps CI/CD across DEV/TEST/UAT/PROD
-</details>
-
-<details>
-<summary><b>🔐 Regulated Environment Compliance & Security Implementation</b></summary>
-<br/>
-
-- Designed role-based access controls, security roles, and entitlement models for healthcare & fintech data
-- Aligned delivery with SOX, GDPR, and HIPAA — including audit logging and data governance
-- Integrated Dynamics with SharePoint & Azure Functions while preserving compliance posture
-</details>
-
-<details>
-<summary><b>🎨 UX Redesign & Performance Optimization</b></summary>
-<br/>
-
-- Partnered with Product & Design to simplify complex forms — cut clicks, lifted adoption by 35%
-- Shipped PCF-driven UX enhancements for clarity and navigation
-- Optimized data retrieval strategies to improve model-driven app response times
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,35:6A00FF,70:B026FF,100:FF2079&height=3&width=100%"/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:rina.shad768@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2079,35:B026FF,70:6A00FF,100:0D0221&height=120&section=footer" width="100%"/>
-</div>
