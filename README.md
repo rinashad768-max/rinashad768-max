@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Animated neon header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:6A00FF,70:B026FF,100:FF2079&height=220&section=header&text=Rina%20Shad&fontSize=55&fontColor=00F5FF&fontAlignY=35&desc=Senior%20Dynamics%20365%20%26%20Power%20Platform%20Engineer&descAlignY=55&descSize=18&descColor=FF2079&animation=fadeIn" width="100%"/>
 
 # Rina Shad
 
