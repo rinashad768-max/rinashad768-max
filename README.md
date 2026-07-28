@@ -13,9 +13,6 @@
 <img src="https://img.shields.io/badge/PL--400-Power%20Platform%20Developer%20Associate-B026FF?style=for-the-badge&labelColor=0D0221"/>
 <img src="https://img.shields.io/badge/Dynamics%20365-CRM%20Functional%20Consultant-FF2079?style=for-the-badge&labelColor=0D0221"/>
 
-<br/><br/>
-
-
 <img src="https://img.shields.io/badge/LOCATION-Newark%2C%20NJ-6A00FF?style=for-the-badge&labelColor=0D0221"/>
 
 </div>
