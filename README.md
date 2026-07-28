@@ -1,8 +1,4 @@
 <div align="center">
-
-<!-- Animated neon header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:6A00FF,70:B026FF,100:FF2079&height=220&section=header&text=Rina%20Shad&fontSize=55&fontColor=00F5FF&fontAlignY=35&desc=Senior%20Dynamics%20365%20%26%20Power%20Platform%20Engineer&descAlignY=55&descSize=18&descColor=FF2079&animation=fadeIn" width="100%"/>
-
 # Rina Shad
 
 <!-- Animated typing text -->
@@ -15,9 +11,6 @@
 <img src="https://img.shields.io/badge/PL--400-Power%20Platform%20Developer%20Associate-B026FF?style=for-the-badge&labelColor=0D0221"/>
 <img src="https://img.shields.io/badge/Dynamics%20365-CRM%20Functional%20Consultant-FF2079?style=for-the-badge&labelColor=0D0221"/>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge&labelColor=0D0221"/>
 <img src="https://img.shields.io/badge/LOCATION-Newark%2C%20NJ-6A00FF?style=for-the-badge&labelColor=0D0221"/>
 
 </div>
@@ -33,7 +26,7 @@ I'm a **Senior Dynamics 365 & Power Platform Engineer** with **8+ years** design
 - 🔐 Building for **regulated environments** — SOX, GDPR, and HIPAA compliance baked into every release
 - ⚙️ Owning **ALM & CI/CD** end-to-end with **Azure DevOps** across DEV → TEST → UAT → PROD
 - 🎯 Partnering with Product & Design to simplify workflows — lifted user adoption **35%** on a recent redesign
-- 🌎 Based in **Newark, NJ**, collaborating across **Pacific Time Zone** teams
+- 🌎 Based in **Newark, NJ**, collaborating across **Eastren Time Zone** teams
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,35:6A00FF,70:B026FF,100:FF2079&height=3&width=100%"/>
 
@@ -126,9 +119,5 @@ I'm a **Senior Dynamics 365 & Power Platform Engineer** with **8+ years** design
 <div align="center">
 
 <a href="mailto:rina.shad768@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2079,35:B026FF,70:6A00FF,100:0D0221&height=120&section=footer" width="100%"/>
-
 </div>
