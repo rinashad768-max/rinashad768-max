@@ -3,6 +3,8 @@
 <!-- Animated neon header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:6A00FF,70:B026FF,100:FF2079&height=220&section=header&text=Rina%20Shad&fontSize=55&fontColor=00F5FF&fontAlignY=35&desc=Senior%20Dynamics%20365%20%26%20Power%20Platform%20Engineer&descAlignY=55&descSize=18&descColor=FF2079&animation=fadeIn" width="100%"/>
 
+# Rina Shad
+
 <!-- Animated typing text -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&background=0D0221&center=true&vCenter=true&multiline=true&width=780&height=100&lines=8%2B+Years+Building+Enterprise+CRM+%26+Automation;Dynamics+365+CE+%7C+Dataverse+%7C+Power+Platform+%7C+Azure+DevOps;Secure%2C+Scalable+Solutions+for+Regulated+Industries;C%23+%2F+.NET+%7C+React+%2F+TypeScript+%7C+PCF+Controls" alt="Typing SVG" />
@@ -116,25 +118,6 @@ I'm a **Senior Dynamics 365 & Power Platform Engineer** with **8+ years** design
 - Shipped PCF-driven UX enhancements for clarity and navigation
 - Optimized data retrieval strategies to improve model-driven app response times
 </details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,35:6A00FF,70:B026FF,100:FF2079&height=3&width=100%"/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D0221"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D0221"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=radical&bg_color=0D0221&hide_border=true&area=true"/>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,35:6A00FF,70:B026FF,100:FF2079&height=3&width=100%"/>
 
