@@ -5,7 +5,7 @@
 
 <!-- Animated typing text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&background=0D0221&center=true&vCenter=true&multiline=true&width=780&height=100&lines=8%2B+Years+Building+Enterprise+CRM+%26+Automation;Dynamics+365+CE+%7C+Dataverse+%7C+Power+Platform+%7C+Azure+DevOps;Secure%2C+Scalable+Solutions+for+Regulated+Industries;C%23+%2F+.NET+%7C+React+%2F+TypeScript+%7C+PCF+Controls" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&background=0D0221&center=true&vCenter=true&multiline=true&width=780&height=100%&lines=8%2B+Years+Building+Enterprise+CRM+%26+Automation;Dynamics+365+CE+%7C+Dataverse+%7C+Power+Platform+%7C+Azure+DevOps;Secure%2C+Scalable+Solutions+for+Regulated+Industries;C%23+%2F+.NET+%7C+React+%2F+TypeScript+%7C+PCF+Controls" alt="Typing SVG" />
 </a>
 
 <br/>
