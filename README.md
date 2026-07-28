@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge&labelColor=0D0221"/>
+
 <img src="https://img.shields.io/badge/LOCATION-Newark%2C%20NJ-6A00FF?style=for-the-badge&labelColor=0D0221"/>
 
 </div>
